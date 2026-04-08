@@ -20,7 +20,7 @@ public class Boarddto {
     private String boardContents;
     private int  boardHits;
     private String  boardCreatedAt;
-
+//jjjj
     private String dateFormat(LocalDateTime date){
         if(date == null)
             return null;
